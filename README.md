@@ -6,6 +6,14 @@ A mini Lead Management System built with **Node.js, Express, Sequelize, MySQL** 
 
 ## 1. Setup Instructions
 
+Run this to migrate Database table
+
+run -> npm run seed
+
+then to run server 
+
+run -> node server.js 
+
 ### Prerequisites
 - Node.js ≥ 18
 - MySQL ≥ 8
