@@ -4,10 +4,10 @@ module.exports = (function () {
     switch (process.env.NODE_ENV) {
         case "development":
             return {
-                DB_HOST: 'us-east1-mysql-instance1.cgu9juasfm8j.us-east-1.rds.amazonaws.com',
-                DB_USER: 'gts_aws',
-                DB_PASSWORD: 'GTSAWS2017',
-                DB: 'shirley',
+                DB_HOST: '',
+                DB_USER: '',
+                DB_PASSWORD: '',
+                DB: '',
                 PORT:3002,
                 BASR_URL: '',
                 WEB_BASE_URL: '',
